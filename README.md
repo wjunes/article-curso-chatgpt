@@ -4,6 +4,9 @@ Contiene el material utilizado en el articulo producido para curso de IA chatgpt
 
 promptS utilizado para generacion del articulo en chat gpt:
 
+Link a publicacao do artigo na plataforma DIO.me: 
+https://web.dio.me/articles/porque-html-e-css-sao-essenciais-para-qualquer-desenvolvedor-web?back=%2Fhome&page=1&order=oldest
+
 1- hablame como un programador senior y creame 10 titulos para un articulo sobre las principales razoines para aprender primero HTML y CSS
 
 2- {RESUMEN}
